@@ -1,133 +1,137 @@
-# 💠 Надёжный стейкинг Kusama с ITROCKET: Как подключиться к пулу №213
+# 💠 Reliable Kusama Staking with ITROCKET: How to Join Pool #213
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/ITR%20redesign.png" alt="stake banner" style="width: 100%; height: 100%; object-fit: cover;" />
 
-## 📚 Содержание
+## 📚 Table of Contents
 
-- [🔰 Введение](#введение)
-- [🪪 1. Создание кошелька](#1-создание-кошелька)
-- [🔌 2. Подключение и проверка минимального стейка](#2-подключение-и-проверка)
-- [💸 3. Пополнение кошелька](#3-пополнение-кошелька)
-- [🏦 4. Стейк в пул №213](#4-стейк-в-пул-№213)
-- [✅ 5. Проверка участия](#5-проверка-участия)
-- [🏁 Заключение](#заключение)
+- [🔰 Introduction](#introduction)
+- [🪪 1. Wallet Creation](#1-wallet-creation)
+- [🔌 2. Checking the Minimum Stake](#2-checking-the-minimum-stake)
+- [💸 3. Funding the Wallet](#3-funding-the-wallet)
+- [🏦 4. Staking in Pool #213](#4-staking-in-pool-213)
+- [✅ 5. Participation Verification](#5-participation-verification)
+- [🏁 Conclusion](#conclusion)
 
 ---
 
-## 🔰 Введение <a id="введение"></a>
+## 🔰 Introduction <a id="introduction"></a>
 
-**Kusama** — это масштабируемая и гибкая сеть, связанная с экосистемой Polkadot. Участвуя в стейкинге, вы поддерживаете сеть и получаете пассивный доход.
+**Kusama** is a scalable and flexible network closely tied to the Polkadot ecosystem. By participating in staking, you help secure the network and earn passive income.
 
-**ITROCKET** запустили валидаторский пул №213. Гайд поможет вам быстро подключиться и начать зарабатывать.
+**ITROCKET** has launched validator Pool #213. This guide will help you quickly join the pool and start earning.
 
 ---
 ###### 💡 Click ► to open/close image  
 
-### 🪪 1. Создание кошелька <a id="1-создание-кошелька"></a>
+### 🪪 1. Wallet Creation <a id="1-wallet-creation"></a>
 
 <details open>
-<summary>1. Установите расширение Polkadot.js Extension</summary>
+<summary>1. Install the Polkadot.js Extension</summary>
 
-[Перейти к установке](https://polkadot.js.org/extension/)
+[Go to installation](https://polkadot.js.org/extension/)
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/sait.png" alt="stake banner 1" style="width: 40%; height: 40%; object-fit: cover;" />
 <img src="https://github.com/mART321/ITstake/blob/main/img/dwn.png" alt="stake banner 2" style="width: 40%; height: 40%; object-fit: cover;" />
 </details>
 
 <details open>
-<summary>2. Откройте меню расширений и найдите polkadot{.js}</summary>
+<summary>2. Open the extensions menu and find polkadot{.js}</summary>
 
-Убедитесь, что расширение активно и работает корректно.
+Ensure the extension is active and functioning properly.
 </details>
 
 <details open>
-<summary>3. Создайте новый аккаунт</summary>
+<summary>3. Create a new account</summary>
 
-Нажмите на иконку расширения → **+** → **Create new account**
+Click on the extension icon → **+** → **Create new account**
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/c1.png" alt="stake banner 3" style="width: 40%; height: 40%; object-fit: cover;" />
 </details>
 
 <details open>
-<summary>4. Сохраните seed-фразу</summary>
+<summary>4. Save the seed phrase</summary>
 
-Это единственный способ восстановить доступ к кошельку. Храните её в надёжном месте!
+This is the only way to recover access to your wallet. Store it securely!
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/c2.jpeg" alt="stake banner 4" style="width: 40%; height: 40%; object-fit: cover;" />
 </details>
 
 <details open>
-<summary>5. Завершите создание аккаунта</summary>
+<summary>5. Complete account setup</summary>
 
-Придумайте имя, установите пароль и завершите настройку кошелька.
+Choose a name, set a password, and finish creating your wallet.
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/c3.png" alt="stake banner 5" style="width: 40%; height: 40%; object-fit: cover;" />
 </details>
 
 <details open>
-<summary>6. Убедитесь, что аккаунт создан</summary>
+<summary>6. Make sure the account is created</summary>
 
-Кошелёк должен отображаться вот так:
+Your wallet should appear like this:
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/c4.png" alt="stake banner 6" style="width: 40%; height: 40%; object-fit: cover;" />
 </details>
 
 ---
 
-## 📉 2. Проверка минимального стейка <a id="2-проверка-минимального-стейка"></a>
+## 📉 2. Checking the Minimum Stake <a id="2-checking-the-minimum-stake"></a>
 
-1. Откройте [раздел Chain State](https://polkadot.js.org/apps/?rpc=wss://kusama-mainnet-rpc.itrocket.net#/chainstate).
+1. Open the [Chain State section](https://polkadot.js.org/apps/?rpc=wss://kusama-mainnet-rpc.itrocket.net#/chainstate).
 
-2. В выпадающем списке параметров выберите:
+2. From the dropdown, select the following parameters:
+
 <details open>
-<summary>- модуль: `staking`</summary>
+<summary>- module: `staking`</summary>
 <img src="https://github.com/mART321/ITstake/blob/main/img/21.jpeg" style="width: 60%; height: 60%; object-fit: cover;" />
 </details>
 
-
 <details open>
-<summary>- метод: `minNominatorBond()`</summary>
+<summary>- method: `minNominatorBond()`</summary>
 <img src="https://github.com/mART321/ITstake/blob/main/img/22.jpeg" style="width: 60%; height: 60%; object-fit: cover;" />
 </details>
 
-3. Нажмите кнопку **«+»**, чтобы отобразить текущее значение минимального стейка.
+3. Click the **“+”** button to view the current minimum stake value.
+
 <details open>
-<summary>Пример: как выглядит минимальный стейк</summary>
+<summary>Example: how the value is displayed</summary>
 <img src="https://github.com/mART321/ITstake/blob/main/img/23.jpeg" style="width: 60%; height: 60%; object-fit: cover;" />
 </details>
 
-Если отображается значение `100000000000`, это эквивалентно **0.1 KSM**. В сети Kusama один KSM состоит из 1 000 000 000 000 планков (Planck) — наименьших единиц. Указанный порог может быть изменён параметрами сети, поэтому его рекомендуется проверять вручную перед началом стейкинга.
+If you see the value `100000000000`, it corresponds to **0.1 KSM**. In the Kusama network, one KSM equals 1,000,000,000,000 plancks — the smallest unit. This threshold is defined by network parameters and may change, so it is recommended to check it manually before staking.
 
 ---
 
-## 💸 3. Пополнение кошелька <a id="3-пополнение"></a>
+## 💸 3. Funding the Wallet <a id="3-funding-the-wallet"></a>
 
-Если у вас ещё нет средств на кошельке, пополните его через биржу (например, Bybit, Binance и другие), переведя токены **KSM** на адрес, который вы создали в кошельке Polkadot.js Extension.
+If your wallet has no funds yet, top it up through an exchange (e.g. Bybit, Binance, etc.) by sending **KSM** to the address generated in your Polkadot.js Extension wallet.
 
-Убедитесь, что сумма перевода превышает минимальный порог — **например, 0.2–0.3 KSM**, чтобы с запасом покрыть возможные комиссии и изменения минимального стейка.
+Make sure the amount exceeds the minimum threshold — **for example, 0.2–0.3 KSM** — to cover possible fees and changes in the minimum stake requirement.
 
 ---
 
-## 🏦 4. Участие в пуле №213 <a id="4-участие-в-пуле"></a>
+## 🏦 4. Staking in Pool #213 <a id="4-staking-in-pool-213"></a>
 
-1. Перейдите в [раздел Staking → Pools](https://polkadot.js.org/apps/?rpc=wss://kusama-mainnet-rpc.itrocket.net#/staking/pools)
+1. Go to the [Staking → Pools section](https://polkadot.js.org/apps/?rpc=wss://kusama-mainnet-rpc.itrocket.net#/staking/pools)
 
-2. Найдите пул с ID **213** — воспользуйтесь встроенным поиском или прокруткой списка.
+2. Find Pool ID **213** — use the search function or scroll through the list.
+
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/3.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
-3. Нажмите кнопку **Join** или **Stake** напротив пула №213.
+3. Click **Join** or **Stake** next to Pool #213.
+
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/31.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
-5. Введите сумму токенов для стейкинга. Она должна быть **выше минимального значения**, указанного ранее.
+4. Enter the amount of tokens you want to stake. It must be **greater than the minimum** specified earlier.
+
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/32.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
-7. Подтвердите транзакцию через расширение Polkadot.js Extension — появится всплывающее окно для подписи действия.
+5. Confirm the transaction using the Polkadot.js Extension — a pop-up will appear asking for confirmation.
 
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/33.png" style="width: 50%; height: 50%; object-fit: cover;" />
@@ -136,27 +140,28 @@
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/34.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
+
 ---
 
-## ✅ 5. Проверка участия <a id="5-проверка-участия"></a>
+## ✅ 5. Participation Verification <a id="5-participation-verification"></a>
 
-1. Перейдите обратно на вкладку **Pools** и убедитесь, что ваш адрес отображается среди участников пула №213.
+1. Return to the **Pools** tab and confirm your address appears among Pool #213 participants.
+
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/4.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
-2. Награды начинают поступать через 1–2 эпохи (обычно несколько дней).
+2. Rewards usually start to accrue after 1–2 eras (a few days).
 
 ---
 
-## 🏁 Заключение <a id="заключение"></a>
+## 🏁 Conclusion <a id="conclusion"></a>
 
-Поздравляем! 🎉 Вы успешно застейкали KSM в пуле №213 проекта **ITROCKET**.
+Congratulations! 🎉 You have successfully staked KSM in **ITROCKET Pool #213**.
 
-Теперь ваши токены работают на вас: приносят доход и поддерживают децентрализацию сети Kusama.
+Now your tokens are working for you — earning rewards and supporting Kusama network decentralization.
 
 ---
 
-[🔝 Вернуться к началу](#📚-содержание)
-
+[🔝 Back to top](#table-of-contents)
 
