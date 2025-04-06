@@ -163,5 +163,5 @@ Now your tokens are working for you — earning rewards and supporting Kusama ne
 
 ---
 
-[🔝 Back to top](#table-of-contents)
+[🔝 Back to top](#introduction)
 
