@@ -1,4 +1,4 @@
-# 💠 Reliable Kusama Staking with ITROCKET: How to Join Pool #213
+# 💠 Kusama Staking Guide: How to Join a Nomination Pool
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/ITR%20redesign.png" alt="stake banner" style="width: 100%; height: 100%; object-fit: cover;" />
 
@@ -109,17 +109,17 @@ Make sure the amount exceeds the minimum threshold — **for example, 0.2–0.3 
 
 ---
 
-## 🏦 4. Staking in Pool #213 <a id="4-staking-in-pool-213"></a>
+## 🏦 4. Joining a Nomination Pool <a id="4-staking-in-pool-213"></a>
 
-1. Go to the [Staking → Pools section](https://polkadot.js.org/apps/?rpc=wss://kusama-mainnet-rpc.itrocket.net#/staking/pools)
+1. Visit the [Staking → Pools section](https://polkadot.js.org/apps/?rpc=wss://kusama-mainnet-rpc.itrocket.net#/staking/pools)
 
-2. Find Pool ID **213** — use the search function or scroll through the list.
+2. In the list of available nomination pools, you can use the search function to find one that suits your preferences. For example, you may consider Pool ID **213**, maintained by the ITROCKET team.
 
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/3.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
-3. Click **Join** or **Stake** next to Pool #213.
+3. Click **Join** next to the pool you choose.
 
 <details open>
 <img src="https://github.com/mART321/ITstake/blob/main/img/31.png" style="width: 50%; height: 50%; object-fit: cover;" />
@@ -157,11 +157,11 @@ Make sure the amount exceeds the minimum threshold — **for example, 0.2–0.3 
 
 ## 🏁 Conclusion <a id="conclusion"></a>
 
-Congratulations! 🎉 You have successfully staked KSM in **ITROCKET Pool #213**.
+Congratulations! 🎉 You have successfully staked your KSM tokens and joined a nomination pool. If you selected Pool #213 by ITROCKET, welcome aboard!
 
 Now your tokens are working for you — earning rewards and supporting Kusama network decentralization.
 
 ---
 
-[🔝 Back to top](#introduction)
+[🔝 Back to top](#table-of-contents)
 
