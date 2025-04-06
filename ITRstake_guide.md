@@ -1,4 +1,4 @@
-# 💠 Kusama Staking Guide: How to Join a Nomination Pool
+# 💠 Kusama Staking Guide: How to Join a Nomination Pool <a id="top"></a>
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/ITR%20redesign.png" alt="stake banner" style="width: 100%; height: 100%; object-fit: cover;" />
 
@@ -163,5 +163,5 @@ Now your tokens are working for you — earning rewards and supporting Kusama ne
 
 ---
 
-[🔝 Back to top](#introduction)
+[🔝 Back to top](#top)
 
