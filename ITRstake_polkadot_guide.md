@@ -1,6 +1,6 @@
 # 💠 Polkadot Staking Guide: How to Join a Nomination Pool
 
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_banner.png" alt="stake banner" style="width: 100%; height: 100%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/ITR%20redesign.png" alt="stake banner" style="width: 100%; height: 100%; object-fit: cover;" />
 
 ## 📚 Table of Contents
 
@@ -81,19 +81,19 @@ The wallet should look like this:
 
 <details open>
 <summary>- module: `staking`</summary>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_staking_module.png" style="width: 60%; height: 60%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/pd1.png" style="width: 60%; height: 60%; object-fit: cover;" />
 </details>
 
 <details open>
 <summary>- method: `minNominatorBond()`</summary>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_minbond_method.png" style="width: 60%; height: 60%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/pd23.png" style="width: 60%; height: 60%; object-fit: cover;" />
 </details>
 
 3. Click the **“+”** button to check the current threshold.
 
 <details open>
 <summary>Example output</summary>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_minbond_value.png" style="width: 60%; height: 60%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/pd4.png" style="width: 60%; height: 60%; object-fit: cover;" />
 </details>
 
 Note: If the result is `2,500,000,000,000`, that means **2.5 DOT**. One DOT equals 10^10 plancks. Thresholds may change, so check before staking.
@@ -110,30 +110,30 @@ Recommended to deposit slightly more than the minimum stake (e.g. 0.3–0.5 DOT)
 
 ## 🏦 4. Joining a Nomination Pool <a id="4-joining-a-nomination-pool"></a>
 
-1. Go to the [Staking → Pools section](https://polkadot.js.org/apps/?rpc=wss://rpc.polkadot.io#/staking/pools)
+1. Go to the [Staking → Pools section](https://polkadot.js.org/apps/?rpc=wss://polkadot-mainnet-rpc.itrocket.net#/staking/pools)
 
 2. Use the search bar or scroll to find a nomination pool.
 
 <details open>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_pool_search.png" style="width: 50%; height: 50%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/pd5.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
 3. Click **Join** next to the pool of your choice.
 
 <details open>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_join_pool.png" style="width: 50%; height: 50%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/pd6.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
 4. Specify the amount you want to stake (above minimum).
 
 <details open>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_amount_input.png" style="width: 50%; height: 50%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/pd7.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
 5. Confirm the transaction in Polkadot.js Extension.
 
 <details open>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_confirmation.png" style="width: 50%; height: 50%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/34.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
 ---
@@ -143,7 +143,7 @@ Recommended to deposit slightly more than the minimum stake (e.g. 0.3–0.5 DOT)
 1. Return to **Pools** and check that your account is listed as a member.
 
 <details open>
-<img src="https://github.com/mART321/ITstake/blob/main/img/placeholder_pool_confirm.png" style="width: 50%; height: 50%; object-fit: cover;" />
+<img src="https://github.com/mART321/ITstake/blob/main/img/pd8.png" style="width: 50%; height: 50%; object-fit: cover;" />
 </details>
 
 2. Rewards will begin to accrue after 1–2 eras.
