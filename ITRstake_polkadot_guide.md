@@ -1,4 +1,4 @@
-# 💠 Polkadot Staking Guide: How to Join a Nomination Pool
+# 💠 Polkadot Staking Guide: How to Join a Nomination Pool <a id="top"></a>
 
 <img src="https://github.com/mART321/ITstake/blob/main/img/ITR%20redesign.png" alt="stake banner" style="width: 100%; height: 100%; object-fit: cover;" />
 
@@ -156,5 +156,5 @@ You have successfully staked your DOT tokens by joining a nomination pool. Your 
 
 ---
 
-[🔝 Back to top](#table-of-contents)
+[🔝 Back to top](#top)
 
